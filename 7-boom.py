@@ -5,6 +5,5 @@ for boom in range(1, set_number+1):
         continue
     elif '7' in str(boom) :
         print("boom")
-        continue
-    print(boom)
-
+    else:    
+        print(boom)
